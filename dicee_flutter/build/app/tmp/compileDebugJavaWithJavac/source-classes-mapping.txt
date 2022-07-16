@@ -1,0 +1,4 @@
+com/example/dicee_flutter/BuildConfig.java
+ com.example.dicee_flutter.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
